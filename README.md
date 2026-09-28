@@ -38,4 +38,6 @@ XAMPP reúne Apache, PHP y MariaDB/MySQL en una instalación local que se admini
 
 ## Captura
 
-Después de iniciar el proyecto y comprobar la página en el navegador, guarda una captura real como `capturas/practica-1.png` y añádela aquí. No se incluye una captura hasta que el proyecto se haya ejecutado.
+Resultado de la aplicación en funcionamiento:
+
+![Captura de la práctica 1: conexión correcta entre Nginx, PHP y MySQL](capturas/practica-1.png)
